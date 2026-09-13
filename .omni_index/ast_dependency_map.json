@@ -1,0 +1,1480 @@
+[
+  {
+    "file": "devika.py",
+    "dependencies": [
+      "src.apis.project",
+      "Config",
+      "src.llm",
+      "LLM",
+      "threading",
+      "flask",
+      "Logger",
+      "logging",
+      "src.config",
+      "AgentState",
+      "src.state",
+      "src.project",
+      "src.socket_instance",
+      "CORS",
+      "gevent",
+      "Agent",
+      "os",
+      "monkey",
+      "Flask",
+      "flask_cors",
+      "src.agents",
+      "init_devika",
+      "project_bp",
+      "src.logger",
+      "Thread",
+      "socketio",
+      "tiktoken",
+      "ProjectManager",
+      "src.init"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "app.dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Makefile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "setup.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ROADMAP.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ARCHITECTURE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docker-compose.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "devika.dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "sample.config.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/Installation/search_engine.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/Installation/ollama.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/architecture/UNDER_THE_HOOD.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/architecture/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/architecture/ARCHITECTURE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/components.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/postcss.config.cjs",
+    "dependencies": [
+      "autoprefixer",
+      "tailwindcss"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/tailwind.config.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/svelte.config.js",
+    "dependencies": [
+      "adapter"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/vite.config.js",
+    "dependencies": [
+      "wasm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/.npmrc",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/static/assets/loading-lottie.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/static/assets/user-avatar.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/static/assets/devika-avatar.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/app.pcss",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/app.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/icons.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/store.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/token.js",
+    "dependencies": [
+      "cl100k_base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/utils.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/api.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/sockets.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ControlPanel.svelte",
+    "dependencies": [
+      "Seperator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/MessageContainer.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/Sidebar.svelte",
+    "dependencies": [
+      "SidebarButton"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/MessageInput.svelte",
+    "dependencies": [
+      "DOMPurify"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/EditorWidget.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/MonacoEditor.js",
+    "dependencies": [
+      "loader"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/TerminalWidget.svelte",
+    "dependencies": [
+      "@xterm/xterm/css/xterm.css"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/BrowserWidget.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/Seperator.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/SidebarButton.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/resizable/resizable-pane-group.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/resizable/index.js",
+    "dependencies": [
+      "PaneGroup",
+      "Handle"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/resizable/resizable-handle.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/select-separator.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/select-content.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/select-label.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/index.js",
+    "dependencies": [
+      "Item",
+      "Separator",
+      "Content",
+      "Trigger",
+      "Label"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/select-item.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/select/select-trigger.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/sonner/index.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/sonner/sonner.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/tabs/index.js",
+    "dependencies": [
+      "Content",
+      "List",
+      "Trigger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/tabs/tabs-trigger.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/tabs/tabs-content.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/lib/components/ui/tabs/tabs-list.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/routes/+layout.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/routes/+page.svelte",
+    "dependencies": [
+      "MessageContainer",
+      "ControlPanel",
+      "EditorWidget",
+      "MessageInput",
+      "BrowserWidget",
+      "TerminalWidget"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/routes/+layout.svelte",
+    "dependencies": [
+      "Sidebar",
+      "../app.pcss"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/routes/logs/+page.svelte",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ui/src/routes/settings/+page.svelte",
+    "dependencies": [
+      "Seperator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmarks/SWE-bench.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "benchmarks/BENCHMARKS.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/project.py",
+    "dependencies": [
+      "Optional",
+      "Field",
+      "typing",
+      "sqlmodel",
+      "emit_agent",
+      "json",
+      "src.config",
+      "Config",
+      "src.socket_instance",
+      "zipfile",
+      "datetime",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/socket_instance.py",
+    "dependencies": [
+      "Logger",
+      "flask_socketio",
+      "src.logger",
+      "SocketIO"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/state.py",
+    "dependencies": [
+      "Optional",
+      "Field",
+      "typing",
+      "sqlmodel",
+      "emit_agent",
+      "json",
+      "src.config",
+      "Config",
+      "src.socket_instance",
+      "datetime",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/config.py",
+    "dependencies": [
+      "toml",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/logger.py",
+    "dependencies": [
+      "flask",
+      "Response",
+      "request",
+      "src.config",
+      "LogInit",
+      "Config",
+      "functools",
+      "werkzeug.wrappers",
+      "fastlogging",
+      "wraps"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/init.py",
+    "dependencies": [
+      "SentenceBert",
+      "Logger",
+      "src.bert.sentence",
+      "src.config",
+      "Config",
+      "src.logger",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/__init__.py",
+    "dependencies": [
+      "Coder",
+      ".internal_monologue",
+      ".planner",
+      "Planner",
+      "Runner",
+      "InternalMonologue",
+      "Researcher",
+      ".coder",
+      ".runner",
+      "Formatter",
+      "Action",
+      ".formatter",
+      ".researcher",
+      ".action",
+      ".agent",
+      "Agent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/agent.py",
+    "dependencies": [
+      ".decision",
+      ".planner",
+      "src.browser.search",
+      "Planner",
+      "PDF",
+      ".feature",
+      "Feature",
+      "ReadCode",
+      "Reporter",
+      "BingSearch",
+      "time",
+      "Logger",
+      "src.memory",
+      "src.documenter.pdf",
+      "Runner",
+      "InternalMonologue",
+      ".coder",
+      "src.services",
+      "AgentState",
+      ".runner",
+      "src.project",
+      "src.state",
+      ".formatter",
+      "src.socket_instance",
+      "src.filesystem",
+      "Patcher",
+      ".researcher",
+      "SentenceBert",
+      "Coder",
+      ".patcher",
+      "src.bert.sentence",
+      "platform",
+      "start_interaction",
+      "Netlify",
+      "Researcher",
+      "emit_agent",
+      ".reporter",
+      "Action",
+      "KnowledgeBase",
+      "asyncio",
+      ".answer",
+      "src.browser",
+      "src.logger",
+      ".internal_monologue",
+      "tiktoken",
+      "ProjectManager",
+      "json",
+      "Decision",
+      "Browser",
+      "Formatter",
+      "Answer",
+      ".action"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/action/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/action/__init__.py",
+    "dependencies": [
+      ".action",
+      "Action"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/action/action.py",
+    "dependencies": [
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "src.config",
+      "json",
+      "Config",
+      "src.llm",
+      "src.services.utils",
+      "LLM"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/formatter/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/formatter/__init__.py",
+    "dependencies": [
+      "Formatter",
+      ".formatter"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/formatter/formatter.py",
+    "dependencies": [
+      "src.llm",
+      "LLM",
+      "Environment",
+      "jinja2"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/runner/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/runner/__init__.py",
+    "dependencies": [
+      "Runner",
+      ".runner"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/runner/rerunner.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/runner/runner.py",
+    "dependencies": [
+      "Environment",
+      "retry_wrapper",
+      "ProjectManager",
+      "jinja2",
+      "json",
+      "AgentState",
+      "subprocess",
+      "src.state",
+      "src.project",
+      "src.services.utils",
+      "src.llm",
+      "src.agents.patcher",
+      "time",
+      "LLM",
+      "Patcher",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/planner/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/planner/__init__.py",
+    "dependencies": [
+      "Planner",
+      ".planner"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/planner/planner.py",
+    "dependencies": [
+      "src.llm",
+      "LLM",
+      "Environment",
+      "jinja2"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/internal_monologue/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/internal_monologue/internal_monologue.py",
+    "dependencies": [
+      "Environment",
+      "jinja2",
+      "retry_wrapper",
+      "json",
+      "src.llm",
+      "src.services.utils",
+      "LLM"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/internal_monologue/__init__.py",
+    "dependencies": [
+      ".internal_monologue",
+      "InternalMonologue"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/reporter/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/reporter/__init__.py",
+    "dependencies": [
+      "Reporter",
+      ".reporter"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/reporter/reporter.py",
+    "dependencies": [
+      "Environment",
+      "jinja2",
+      "retry_wrapper",
+      "json",
+      "src.llm",
+      "src.services.utils",
+      "LLM"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/decision/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/decision/__init__.py",
+    "dependencies": [
+      ".decision",
+      "Decision"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/decision/decision.py",
+    "dependencies": [
+      "Environment",
+      "jinja2",
+      "retry_wrapper",
+      "json",
+      "src.llm",
+      "src.services.utils",
+      "LLM"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/coder/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/coder/__init__.py",
+    "dependencies": [
+      "Coder",
+      ".coder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/coder/coder.py",
+    "dependencies": [
+      "Logger",
+      "List",
+      "typing",
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "emit_agent",
+      "src.config",
+      "AgentState",
+      "src.state",
+      "Config",
+      "src.socket_instance",
+      "src.llm",
+      "src.services.utils",
+      "src.logger",
+      "time",
+      "LLM",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/feature/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/feature/__init__.py",
+    "dependencies": [
+      "Feature",
+      ".feature"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/feature/feature.py",
+    "dependencies": [
+      "List",
+      "typing",
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "emit_agent",
+      "src.config",
+      "AgentState",
+      "src.state",
+      "Config",
+      "src.socket_instance",
+      "src.llm",
+      "src.services.utils",
+      "time",
+      "LLM",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/answer/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/answer/__init__.py",
+    "dependencies": [
+      "Answer",
+      ".answer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/answer/answer.py",
+    "dependencies": [
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "src.config",
+      "json",
+      "Config",
+      "src.llm",
+      "src.services.utils",
+      "LLM"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/researcher/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/researcher/__init__.py",
+    "dependencies": [
+      ".researcher",
+      "Researcher"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/researcher/researcher.py",
+    "dependencies": [
+      "List",
+      "typing",
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "src.browser.search",
+      "json",
+      "src.llm",
+      "src.services.utils",
+      "LLM",
+      "BingSearch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/patcher/prompt.jinja2",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/patcher/__init__.py",
+    "dependencies": [
+      ".patcher",
+      "Patcher"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/agents/patcher/patcher.py",
+    "dependencies": [
+      "List",
+      "typing",
+      "Environment",
+      "retry_wrapper",
+      "jinja2",
+      "emit_agent",
+      "src.config",
+      "AgentState",
+      "src.state",
+      "Config",
+      "src.socket_instance",
+      "src.llm",
+      "src.services.utils",
+      "time",
+      "LLM",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/services/github.py",
+    "dependencies": [
+      "requests",
+      "List",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/services/__init__.py",
+    "dependencies": [
+      ".git",
+      "GitHub",
+      "Netlify",
+      ".github",
+      ".netlify",
+      "Git"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/services/git.py",
+    "dependencies": [
+      "git"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/services/netlify.py",
+    "dependencies": [
+      "ProjectManager",
+      "src.config",
+      "Config",
+      "src.project",
+      "NetlifyPy",
+      "netlify_py"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/services/utils.py",
+    "dependencies": [
+      "emit_agent",
+      "json",
+      "functools",
+      "sys",
+      "src.socket_instance",
+      "time",
+      "wraps"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/__init__.py",
+    "dependencies": [
+      "LLM",
+      ".llm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/lm_studio_client.py",
+    "dependencies": [
+      "Logger",
+      "openai",
+      "src.config",
+      "Config",
+      "src.logger",
+      "OpenAI"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/mistral_client.py",
+    "dependencies": [
+      "from",
+      "Mistral",
+      "src.config",
+      "Config",
+      "os",
+      "mistralai"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/ollama_client.py",
+    "dependencies": [
+      "Logger",
+      "src.config",
+      "ollama",
+      "Config",
+      "src.logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/groq_client.py",
+    "dependencies": [
+      "Groq",
+      "Config",
+      "groq",
+      "src.config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/gemini_client.py",
+    "dependencies": [
+      "google.generativeai",
+      "src.config",
+      "Config",
+      "HarmCategory",
+      "google.generativeai.types"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/llm.py",
+    "dependencies": [
+      ".mistral_client",
+      "Config",
+      "Claude",
+      "time",
+      "Logger",
+      "List",
+      "src.config",
+      ".claude_client",
+      "AgentState",
+      ".gemini_client",
+      ".lm_studio_client",
+      "sys",
+      "src.socket_instance",
+      "src.state",
+      ".groq_client",
+      "Gemini",
+      "Ollama",
+      "emit_agent",
+      ".ollama_client",
+      "src.logger",
+      "MistralAi",
+      ".openai_client",
+      "typing",
+      "tiktoken",
+      "Groq",
+      "LMStudio",
+      "OpenAi",
+      "concurrent.futures"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/claude_client.py",
+    "dependencies": [
+      "Anthropic",
+      "Config",
+      "src.config",
+      "anthropic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/llm/openai_client.py",
+    "dependencies": [
+      "openai",
+      "Config",
+      "OpenAI",
+      "src.config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/apis/project.py",
+    "dependencies": [
+      "flask",
+      "Logger",
+      "..state",
+      "secure_filename",
+      "ProjectManager",
+      "src.config",
+      "AgentState",
+      "werkzeug.utils",
+      "Config",
+      "src.project",
+      "src.logger",
+      "blueprints",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/memory/__init__.py",
+    "dependencies": [
+      ".knowledge_base",
+      "KnowledgeBase"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/memory/rag.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/memory/knowledge_base.py",
+    "dependencies": [
+      "Optional",
+      "Field",
+      "typing",
+      "sqlmodel",
+      "src.config",
+      "Config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/browser/browser.py",
+    "dependencies": [
+      "extract_text",
+      "playwright.sync_api",
+      "playwright.async_api",
+      "emit_agent",
+      "src.config",
+      "sync_playwright",
+      "AgentState",
+      "src.state",
+      "asyncio",
+      "os",
+      "markdownify",
+      "Config",
+      "src.socket_instance",
+      "pdfminer.high_level",
+      "async_playwright",
+      "base64"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/browser/interaction.py",
+    "dependencies": [
+      "playwright.sync_api",
+      "exit",
+      "src.config",
+      "sync_playwright",
+      "AgentState",
+      "src.state",
+      "Config",
+      "sys",
+      "src.llm",
+      "time",
+      "LLM",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/browser/__init__.py",
+    "dependencies": [
+      "Browser",
+      ".interaction",
+      ".browser",
+      "start_interaction"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/browser/search.py",
+    "dependencies": [
+      "re",
+      "unescape",
+      "urllib.parse",
+      "duckduckgo_search",
+      "src.config",
+      "orjson",
+      "curl_cffi",
+      "requests",
+      "Config",
+      "unquote",
+      "html",
+      "DDGS"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/documenter/graphwiz.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/documenter/pdf.py",
+    "dependencies": [
+      "BytesIO",
+      "xhtml2pdf",
+      "pisa",
+      "src.config",
+      "io",
+      "Config",
+      "markdown",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/documenter/uml.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/bert/sentence.py",
+    "dependencies": [
+      "keybert",
+      "KeyBERT"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/game-dev.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/math.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/chemistry.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/web-design.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/medical.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/__UNIMPLEMENTED__",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/stackoverflow.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/experts/physics.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/sandbox/code_runner.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/sandbox/firejail.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/filesystem/__init__.py",
+    "dependencies": [
+      "ReadCode",
+      ".read_code"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/filesystem/read_code.py",
+    "dependencies": [
+      "Config",
+      "os",
+      "src.config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
